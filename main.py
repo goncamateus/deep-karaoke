@@ -78,7 +78,7 @@ def main(argv):
   # Export the model
   elif args.phase == 'export':
     stats = get_stats(configs['TF_RECORDS_META'])
-    model = create_model(args, stats)
+    model = create_model(args, stats, configs)
     model.export()
 
 def create_model(args, stats, configs):

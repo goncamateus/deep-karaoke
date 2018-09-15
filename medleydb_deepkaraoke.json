@@ -408,37 +408,6 @@
             ]
         },
         {
-            "mix_path": "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_MIX.wav",
-            "other_stems": [
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_03.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_04.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_05.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_22.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_23.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_20.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_21.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_24.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_07.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_08.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_09.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_19.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_18.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_13.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_12.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_11.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_10.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_17.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_16.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_15.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_14.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_01.wav",
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_02.wav"
-            ],
-            "target_stems": [
-                "MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/MatthewEntwistle_AnEveningWithOliver_STEM_06.wav"
-            ]
-        },
-        {
             "mix_path": "Grants_PunchDrunk/Grants_PunchDrunk_MIX.wav",
             "other_stems": [
                 "Grants_PunchDrunk/Grants_PunchDrunk_STEMS/Grants_PunchDrunk_STEM_08.wav",

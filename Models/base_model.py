@@ -59,14 +59,20 @@ class BaseModel(object):
 
       if self.delete_old:
         # remove old tensorboard and models files:
-        shutil.rmtree('Results/'+self.model)
+        try:
+          shutil.rmtree('Results/'+self.model)
+        except FileNotFoundError:
+          pass        
         os.makedirs('Results/'+self.model)
       else:
         # restore the session
         GRAPH_WRITER = tf.train.Saver()
         GRAPH_WRITER.restore(SESSION, self.model_file)
 
-      shutil.rmtree('Tensorboard/' + self.model)
+      try:
+        shutil.rmtree('Tensorboard/' + self.model)
+      except FileNotFoundError:
+        pass      
       os.makedirs('Tensorboard/' + self.model)
 
       # Start Queue Runners
